@@ -10,3 +10,8 @@ Hi
 
 ![Image]({{ page.image }})
 
+```html
+<img src="{{ page.image | relatice-url }}" alt="" height="80px" width="100%" style="object-fit: cover">
+```
+
+{% include image1.html %}
