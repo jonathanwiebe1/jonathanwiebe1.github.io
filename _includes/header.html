@@ -1,6 +1,6 @@
 <header class="site-header" role="banner">
   <div class="wrapper">
-  <br> <img src="{{ page.image | relatice-url }}" alt="" height="80px" width="100%" style="object-fit: cover">
+  <br> <img src="{{ page.image | relative_url }}" alt="" height="160px" width="100%" style="object-fit: cover">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>

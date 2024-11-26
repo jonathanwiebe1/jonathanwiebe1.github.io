@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Canadian Patient Summary"
+date:   2024-09-09
+categories: jekyll update
+image: /assets/images/dsc_0225.jpg
+---
+
+Through [Dogwood Health Consulting](https://dogwoodhealthconsulting.com/) I've been contracted to [Infoway Canada](https://www.infoway-inforoute.ca/en/) to help them develop the [Canadian Patient Summary](https://www.infoway-inforoute.ca/en/digital-health-initiatives/interoperability/patient-summary#canada) through balloting and publication.  This is a great opportunity, especially coming off working primarily for Blue Cross Blue Shield in the US, to help with Canadian Healthcare once again.
