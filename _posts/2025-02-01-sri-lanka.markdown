@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Sri Lanka Health"
+date:   2025-02-01
+categories: jekyll update
+image: /assets/images/dsc_0225.jpg
+---
+
+I have started working with Sri Lanka, through [eSHIFT Partner Network](https://eshift.org).
+
+The team is helping Sir Lanka develop a digital health system.  It is interesting work as it focuses more on open source health applications for say a client registry or a national shared health repository.  Up until now my experiences have been either expensive commercial-off-the-shelf products or purely custom builds, and Sri Lanka will likely turn out to be customized open source along with standard infrastructure and supporting applications for databases, identity providers, load balancing, etc.
+
+[Open HIE Architecture Specification](https://guides.ohie.org/arch-spec/architecture-specification/overview-of-the-architecture)
+

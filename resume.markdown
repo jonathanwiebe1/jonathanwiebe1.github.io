@@ -18,8 +18,11 @@ Jonathan’s most recent role was as a Senior Solution Architect at Smile Digita
 
 ## Consulting History
 
+_January 2025 - ongoing_
+* Through eSHIFT Partner Network, for Sri Lanka, working with expert eSHIFT team to design and implement a digital health system for the country.  This includes documenting patient journeys; designing services and APIs; and implementing a minimum viable product for Sri Lanka to build on.
+
 _September 2024 - ongoing_
-* Through Dogwood Health Consulting, for Infoway Canada helping with the Canadian Patient Summary
+* Through Dogwood Health Consulting, for Infoway Canada, helping with the Canadian Patient Summary by updating IG and profiles, attending projectathons, and consulting on changes to Patient Summary.
 
 ## Full Time Employment History
 
